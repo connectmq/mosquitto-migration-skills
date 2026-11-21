@@ -1,0 +1,16 @@
+{
+  "name": "connectmq-mosquitto-migration",
+  "description": "ConnectMQ skills for migrating from Eclipse Mosquitto to the ConnectMQ MQTT broker",
+  "owner": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "plugins": [
+    {
+      "name": "mosquitto-migration-skills",
+      "source": "./",
+      "description": "Plan and execute a migration from Eclipse Mosquitto to the ConnectMQ managed MQTT broker.",
+      "version": "1.0.0"
+    }
+  ]
+}
