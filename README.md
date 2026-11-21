@@ -1,5 +1,7 @@
 # Mosquitto Migration Skills for ConnectMQ
 
+<p align="center"><img src="assets/cover.jpg" alt="Mosquitto to ConnectMQ migration skills for AI agents" width="820"></p>
+
 **AI agent skills for planning and executing a migration from Eclipse Mosquitto to the [ConnectMQ](https://connectmq.com/?utm_source=github&utm_medium=readme&utm_campaign=migration-skills&utm_content=mosquitto) managed MQTT broker.**
 
 Give your AI coding agent (Claude Code, Claude.ai, or any agent that reads `SKILL.md` skills) the knowledge and the
